@@ -1,0 +1,14 @@
+{
+  "name": "socketio-chat-server",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "socket.io": "^4.0.0"
+  }
+}
